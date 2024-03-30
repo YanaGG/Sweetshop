@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sweet shop</string>
+    <string name="shop_logo">Sweets Shop Logo</string>
+    <string-array name="sweets">
+        <item>Macaroons</item>
+        <item>Ice cream</item>
+        <item>Pancakes</item>
+        <item>Cupcakes</item>
+        <item>Birthday cakes</item>
+    </string-array>
+</resources>
